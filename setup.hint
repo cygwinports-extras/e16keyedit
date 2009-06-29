@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin e16 glib2 gtk2-x11 libX11_6
+requires: e16 glib2 gtk2-x11 libX11_6
 sdesc: "Enlightment E16 keyboard shortcut editor"
 ldesc: "Keyboard shortcut editor for the Enlightenment DR16 window manager"
