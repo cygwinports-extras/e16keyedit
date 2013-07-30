@@ -1,0 +1,11 @@
+NAME="e16keyedit"
+VERSION=0.7
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="Enlightment E16 keyboard shortcut editor"
+DESCRIPTION="Keyboard shortcut editor for the Enlightenment DR16 window manager"
+REQUIRES="e16"
+HOMEPAGE="http://enlightenment.org/"
+SRC_URI="mirror://sourceforge/enlightenment/${NAME}-${VERSION}.tar.gz"
+
+CYGCONF_ARGS="--enable-gtk2"

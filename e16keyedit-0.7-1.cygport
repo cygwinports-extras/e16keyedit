@@ -1,5 +1,0 @@
-DESCRIPTION="Enlightenment E16 keyboard shortcut editor"
-HOMEPAGE="http://enlightenment.org/"
-SRC_URI="mirror://sourceforge/enlightenment/${P}.tar.gz"
-
-CYGCONF_ARGS="--enable-gtk2"
